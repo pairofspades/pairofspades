@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pairofspades
-- 👀 I’m interested in fullstack system dev
+- 👀 I’m interested in javascript, php
 - 🌱 I’m currently learning quasar framework and laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
